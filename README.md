@@ -3,5 +3,5 @@ This project contains all the neccesary files to experiment with advanced roboti
 
 The Interface Board used for this project is the Waveshare Bus Servo Adapter:- https://www.waveshare.com/wiki/Bus_Servo_Adapter_(A)
 
-![Description](images/photo.png)
+![Description](/images/300px-Bus_Servo_Adapter_(A).jpg) 
 
