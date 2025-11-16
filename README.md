@@ -11,6 +11,7 @@ The Controller board used is the Arduino Nano ESP32 S3 which connects to the Wav
 The control software is Blender with the excellent Servo Animation Addon by Tim Hendriks which allows both export of servo values and real time control via USB Serial link.
 
 https://www.tim-hendriks.com/my-projects/blender-servo-animation/
-https://github.com/timhendriks93/blender-servo-animation
+
+https://github.com/timhendriks93/blender-servo-animation/
 
 
